@@ -1,0 +1,23 @@
+# Секреты — никогда не публиковать
+.env
+
+# База данных (локальная)
+*.db
+*.sqlite
+
+# Python кэш
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
